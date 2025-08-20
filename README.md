@@ -27,7 +27,7 @@ This project analyzes **Zelcom Telecom’s customer churn data (2019–2024)** t
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 - **Power BI** → Interactive dashboards, KPI cards, DAX (risk scoring)  
 - **SQL** → Data cleaning, transformations, joins  
 
